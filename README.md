@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-This is my first website. I'll experiment with html programming and other languages.
+This is my first repository. 
+I'll experiment with html programming and other languages.
 
 :v:
 
