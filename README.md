@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+This is my first website. I'll experiment with html programming and other languages.
+
+
 <!--
 **stanicism/stanicism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
